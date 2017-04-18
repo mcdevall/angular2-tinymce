@@ -3,6 +3,5 @@ aot
 node_modules
 npm-debug.log
 /typings
-*.map
 /docs/build
 ngfactory
